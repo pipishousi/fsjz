@@ -34,7 +34,7 @@
         },
         "regularStencil":
         {
-            "money": "-%3F%5Cb%5Cd%7B1,3%7D(%3F:,%5Cd%7B3%7D)*%5C.%5Cd+%5Cb",
+            "money": "%5B~-%5D%3F%5Cd+(,%5Cd%7B3%7D)*(%5C.%5Cd%7B1,2%7D)%3F",
             "timeAbstract": "(%5Cd%7B4%7D%5B%E5%B9%B4/-%5D%5Cd%7B1,2%7D%5B%E6%9C%88/-%5D%5Cd%7B1,2%7D%5B%E6%97%A5%5D%3F%20%5Cd%7B1,2%7D:%5Cd%7B1,2%7D:%5Cd%7B1,2%7D)"
         },
         "reward_state": "false",
